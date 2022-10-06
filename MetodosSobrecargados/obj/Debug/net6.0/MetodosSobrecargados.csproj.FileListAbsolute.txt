@@ -1,0 +1,15 @@
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\bin\Debug\net6.0\MetodosSobrecargados.exe
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\bin\Debug\net6.0\MetodosSobrecargados.deps.json
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\bin\Debug\net6.0\MetodosSobrecargados.runtimeconfig.json
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\bin\Debug\net6.0\MetodosSobrecargados.dll
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\bin\Debug\net6.0\MetodosSobrecargados.pdb
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\obj\Debug\net6.0\MetodosSobrecargados.csproj.AssemblyReference.cache
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\obj\Debug\net6.0\MetodosSobrecargados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\obj\Debug\net6.0\MetodosSobrecargados.AssemblyInfoInputs.cache
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\obj\Debug\net6.0\MetodosSobrecargados.AssemblyInfo.cs
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\obj\Debug\net6.0\MetodosSobrecargados.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\obj\Debug\net6.0\MetodosSobrecargados.dll
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\obj\Debug\net6.0\refint\MetodosSobrecargados.dll
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\obj\Debug\net6.0\MetodosSobrecargados.pdb
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\obj\Debug\net6.0\MetodosSobrecargados.genruntimeconfig.cache
+C:\Users\JADPA-16\source\repos\GenericosyColecciones\MetodosSobrecargados\obj\Debug\net6.0\ref\MetodosSobrecargados.dll
